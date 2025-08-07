@@ -1,16 +1,24 @@
-## Hi there 👋
+### hey, I'm Devika 👋
+I'm a Data Science student with a genuine passion for making sense of messy data and turning it into something meaningful. I'm not just chasing trends — I actually enjoy digging into numbers, spotting patterns, and uncovering insights that matter in the real world.
 
-<!--
-**Devikapavithran/Devikapavithran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Every project feels like solving a new puzzle — and I love it.
 
-Here are some ideas to get you started:
+🛠️ Tools & Tech I Use:
+Programming: Python 🐍 | R 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Tools: Excel 📈 | SQL 💾 | Power BI 📊 | Tableau 📉
+
+Web Dev: HTML / CSS / JS 🌐
+
+💼 What I’ve Worked On:
+Data Analytics & Visualization projects
+
+Predictive Modeling 📉
+
+Web Development Projects 💻
+
+My goal? To become a Data Analyst who doesn’t just crunch numbers, but helps people make smarter decisions through actionable insights.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devikapavithran&show_icons=true&theme=radical)
+
+🚀 Always Learning. Always Curious.
