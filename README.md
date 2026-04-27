@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey, I'm Devika 👋<br>I'm a Data Science student with a genuine passion for making sense of messy data and turning it into something meaningful. I'm not just chasing trends — I actually enjoy digging into numbers, spotting patterns, and uncovering insights that matter in the real world.<br><br>My goal? To become a Data Analyst who doesn’t just crunch numbers, but helps people make smarter decisions through actionable insights.
+hey, I'm Devika 👋<br>I'm a Data Science student with a genuine passion for making sense of messy data and turning it into something meaningful. I'm not just chasing trends — I actually enjoy digging into numbers, spotting patterns, and uncovering insights that matter in the real world.
 
 
 ## 🌐 Socials:
