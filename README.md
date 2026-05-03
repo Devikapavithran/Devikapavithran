@@ -10,6 +10,10 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=plastic&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Devikapavithran&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
