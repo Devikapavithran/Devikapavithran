@@ -15,9 +15,13 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Devikapavithran&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Devikapavithran&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devikapavithran&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devikapavithran&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Devikapavithran&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devikapavithran&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+</p>
