@@ -18,10 +18,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devikapavithran&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Devikapavithran&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devikapavithran&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devikapavithran&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devikapavithran&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikapavithran&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
